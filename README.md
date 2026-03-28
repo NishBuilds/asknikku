@@ -6,7 +6,7 @@ modify the .sh file at the top to specify your local AI host IP and port, then r
 then refresh shell with exec bash 
 
 
-
+```
 Usage:
   asknikku "your prompt"
   asknikku -a "question about the last captured terminal output"
@@ -43,4 +43,4 @@ Control shell capture if a fullscreen app conflicts:
   asknikku-capture off
   asknikku-capture on
   asknikku-capture status
-
+```
